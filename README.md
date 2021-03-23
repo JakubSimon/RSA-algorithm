@@ -1,5 +1,5 @@
 # RSA Algorithm
-> Projcet uses assymentric cryptografic algorithm RSA in order to encrypt and decrypt a message. It is able to hunt maximum 768-bit long prime numbers out (232 digits) to generate public and private keys.
+> Project uses asymmetric cryptographic algorithm RSA in order to encrypt and decrypt a message. It is able to hunt maximum 768-bit long prime numbers out (232 digits) to generate public and private keys.
 
 ## Table of contents
 * [General info](#general-info)
@@ -70,7 +70,7 @@ List of features ready and TODOs for future development
 
 Ready features:
 * Generate 768-bit long prime numbers
-* Generate public and private keys using the RSA Algorithim
+* Generate public and private keys using the RSA Algorithm
 * Encrypt pairs of signs using the RSA keys and ASCII
 * Possibility to upload a message to encrypt from _.txt_ file
 
